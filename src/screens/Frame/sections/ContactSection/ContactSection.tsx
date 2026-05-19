@@ -24,9 +24,12 @@ export const ContactSection = (): JSX.Element => {
               name="family-law-consultation"
               method="POST"
               action="/thank-you"
-              netlify
+              data-netlify="true"
+              netlify-honeypot="bot-field"
               className="space-y-4"
             >
+              <input type="hidden" name="bot-field" />
+              <input type="hidden" name="form-name" value="family-law-consultation" />
               <div>
                 <input
                   type="text"
