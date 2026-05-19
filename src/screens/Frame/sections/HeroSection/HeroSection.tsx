@@ -44,7 +44,7 @@ export const HeroSection = (): JSX.Element => {
           className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-12 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px] inline-block"
           onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
         >
-          Schedule Your Consultation
+          Schedule Free Phone Consultation
         </button>
       </div>
     </section>
