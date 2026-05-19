@@ -24,3 +24,14 @@
   to = "/thank-you.html"
   status = 200
   force = true
+
+# Form success page
+[context.production.environment]
+  FORM_SUCCESS_URL = "/thank-you"
+
+# Redirect form submissions to our thank you page
+[[redirects]]
+  from = "/submit-form"
+  to = "/thank-you"
+  status = 302
+  force = true

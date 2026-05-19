@@ -23,9 +23,14 @@ export const ContactSection = (): JSX.Element => {
               id="contact-form"
               name="family-law-consultation"
               method="POST"
-              action="/thank-you"
+              action="/"
               data-netlify="true"
               netlify-honeypot="bot-field"
+              onSubmit={(e) => {
+                setTimeout(() => {
+                  window.location.href = '/thank-you';
+                }, 100);
+              }}
               className="space-y-4"
             >
               <input type="hidden" name="bot-field" />
