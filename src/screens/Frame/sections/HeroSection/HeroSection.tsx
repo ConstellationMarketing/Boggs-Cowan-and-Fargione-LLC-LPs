@@ -6,11 +6,11 @@ export const HeroSection = (): JSX.Element => {
       {/* Navigation Bar */}
       <div className="relative w-full bg-wosnik-dark border-b border-wosnik-accent/20">
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-          <div className="flex items-center bg-white rounded px-3 py-2">
+          <div className="flex items-center">
             <img
               src="/bcf-logo.png"
               alt="Boggs, Cowan & Fargione Logo"
-              className="h-12 w-auto object-contain"
+              className="h-12 w-auto object-contain filter brightness-0 invert"
             />
           </div>
 
