@@ -14,7 +14,7 @@ export const HeroSection = (): JSX.Element => {
             />
           </div>
 
-          <div className="flex flex-col items-end border-2 border-wosnik-accent rounded px-6 py-3">
+          <div className="flex flex-col items-end border-2 border-wosnik-accent rounded px-8 py-4 min-w-[220px]">
             <p className="font-body text-wosnik-accent text-sm uppercase tracking-wider font-semibold">Call 24/7</p>
             <a
               href="tel:7065355965"
