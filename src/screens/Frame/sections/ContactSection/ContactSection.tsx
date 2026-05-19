@@ -93,7 +93,7 @@ export const ContactSection = (): JSX.Element => {
                 <div className="flex items-start">
                   <Phone className="w-5 h-5 text-wosnik-accent mr-3 mt-1 flex-shrink-0" />
                   <div>
-                    <p className="font-body text-wosnik-dark font-medium">(706) 535-5965</p>
+                    <a href="tel:7065355965" className="font-body text-wosnik-dark font-medium hover:text-wosnik-accent transition-colors">(706) 535-5965</a>
                     <p className="font-body text-gray-600 text-sm">Email: cowan@bcflawfirm.com</p>
                   </div>
                 </div>
