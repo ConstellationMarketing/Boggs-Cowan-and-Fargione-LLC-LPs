@@ -5,8 +5,8 @@ export const HeroSection = (): JSX.Element => {
     <section className="relative w-full min-h-[500px] bg-wosnik-dark">
       {/* Navigation Bar */}
       <div className="relative w-full bg-wosnik-dark border-b border-wosnik-accent/20">
-        <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-          <div className="flex items-center">
+        <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+          <div className="flex justify-center md:justify-start">
             <img
               src="/bcf-logo.png"
               alt="Boggs, Cowan & Fargione Logo"
@@ -14,11 +14,11 @@ export const HeroSection = (): JSX.Element => {
             />
           </div>
 
-          <div className="flex flex-col items-center justify-center gap-1 border-2 border-wosnik-accent rounded px-8 py-4 min-w-[220px]">
-            <p className="font-body text-wosnik-accent text-sm uppercase tracking-wider font-semibold">Call 24/7</p>
+          <div className="flex flex-col items-center justify-center gap-1 border-2 border-wosnik-accent rounded px-4 py-2 md:px-8 md:py-4 w-full md:w-auto md:min-w-[220px]">
+            <p className="font-body text-wosnik-accent text-xs md:text-sm uppercase tracking-wider font-semibold">Call 24/7</p>
             <a
               href="tel:7065355965"
-              className="font-body text-white hover:text-wosnik-accent transition-colors text-lg font-semibold"
+              className="font-body text-white hover:text-wosnik-accent transition-colors text-base md:text-lg font-semibold"
             >
               (706) 535-5965
             </a>
