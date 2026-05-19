@@ -38,13 +38,13 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
 
         {/* CTA Section */}
         <div className="mt-16 bg-wosnik-accent rounded-lg p-12 text-center">
-          <h3 className="font-heading text-wosnik-dark text-2xl md:text-3xl font-normal mb-6">
+          <h3 className="font-heading text-white text-2xl md:text-3xl font-normal mb-6">
             Schedule Your Free Phone Consultation Today
           </h3>
 
           <a
             href="tel:7065355965"
-            className="inline-block font-heading text-wosnik-dark text-2xl md:text-3xl font-semibold hover:opacity-80 transition-opacity mb-8"
+            className="inline-block font-heading text-white text-2xl md:text-3xl font-semibold hover:opacity-80 transition-opacity mb-8"
           >
             (706) 535-5965
           </a>
@@ -52,12 +52,12 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
           <div className="flex flex-col items-center gap-4">
             <a
               href="tel:7065355965"
-              className="bg-wosnik-dark hover:bg-wosnik-dark/90 text-white font-inter font-medium text-sm px-8 py-3 rounded-full transition-all duration-150 uppercase tracking-[2px] inline-block"
+              className="bg-white hover:bg-gray-100 text-wosnik-accent font-inter font-medium text-sm px-8 py-3 rounded-full transition-all duration-150 uppercase tracking-[2px] inline-block"
             >
               Free consultations available
             </a>
 
-            <p className="font-body text-wosnik-dark text-base">
+            <p className="font-body text-white text-base">
               Speak directly with our legal team to discuss your divorce, child custody, or family law matter. Get clear answers, trusted guidance, and the information you need to confidently move forward.
             </p>
           </div>

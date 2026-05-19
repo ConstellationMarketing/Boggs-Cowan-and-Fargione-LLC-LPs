@@ -54,8 +54,8 @@ export const AboutUsSection = (): JSX.Element => {
                   key={index}
                   className="bg-wosnik-accent rounded-lg p-6 flex flex-col items-center text-center"
                 >
-                  <CheckCircle className="w-10 h-10 text-wosnik-dark mb-3" />
-                  <p className="font-body text-wosnik-dark text-sm font-medium leading-relaxed">
+                  <CheckCircle className="w-10 h-10 text-white mb-3" />
+                  <p className="font-body text-white text-sm font-medium leading-relaxed">
                     {highlight}
                   </p>
                 </div>

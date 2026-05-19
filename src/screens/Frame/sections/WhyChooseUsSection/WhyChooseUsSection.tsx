@@ -39,8 +39,8 @@ export const WhyChooseUsSection = (): JSX.Element => {
                 key={index}
                 className="bg-wosnik-accent p-6 rounded-lg flex flex-col items-center text-center"
               >
-                <IconComponent className="w-12 h-12 text-wosnik-dark mb-4" />
-                <p className="font-body text-wosnik-dark text-sm leading-relaxed">
+                <IconComponent className="w-12 h-12 text-white mb-4" />
+                <p className="font-body text-white text-sm leading-relaxed">
                   {feature.text}
                 </p>
               </div>
