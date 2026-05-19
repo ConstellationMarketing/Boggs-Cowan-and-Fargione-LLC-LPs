@@ -20,8 +20,8 @@ export const AboutUsSection = (): JSX.Element => {
         <div className="flex flex-col items-center">
           <div className="w-full mb-12 max-w-4xl">
             <img
-              src="/image (15).png"
-              alt="Team"
+              src="/bcf-about-us.webp"
+              alt="Boggs, Cowan & Fargione Law Firm office in Georgia"
               className="w-full h-auto rounded-lg"
             />
           </div>
