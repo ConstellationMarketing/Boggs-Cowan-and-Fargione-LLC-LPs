@@ -8,9 +8,9 @@ export const HeroSection = (): JSX.Element => {
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center">
             <img
-              src="/bcf-logo.webp"
+              src="/bcf-logo.png"
               alt="Boggs, Cowan & Fargione Logo"
-              className="h-10 w-auto object-contain"
+              className="h-16 w-auto object-contain"
             />
           </div>
 
