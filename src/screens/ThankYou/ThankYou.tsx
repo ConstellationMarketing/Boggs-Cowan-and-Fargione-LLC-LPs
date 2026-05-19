@@ -13,30 +13,30 @@ export const ThankYou = (): JSX.Element => {
           </div>
 
           <h1 className="font-heading text-gray-900 text-4xl md:text-5xl font-normal mb-6">
-            Thank You!
+            Your Request Has Been Received
           </h1>
 
           <p className="font-body text-gray-700 text-lg mb-4">
-            We've received your message and appreciate you contacting us.
+            A member of our intake team will contact you shortly.
           </p>
 
           <p className="font-body text-gray-600 text-base mb-8">
-            One of our experienced attorneys will review your case and get back to you as soon as possible. We typically respond within 24 hours during business days.
+            Watch for a call from (706) 535-5965 or an email from Boggs, Cowan & Fargione LLC. Our team will review your inquiry and discuss the details of your divorce, child custody, or family law matter.
           </p>
 
           <div className="bg-wosnik-accent/10 border border-wosnik-accent/30 rounded-lg p-6 mb-8">
             <p className="font-body text-gray-900 font-semibold mb-2">
-              Need Immediate Assistance?
+              Next Steps
+            </p>
+            <p className="font-body text-gray-600 text-sm">
+              We will help you understand your legal options and the next steps available for your case. Once your consultation is confirmed, you will speak directly with an attorney about protecting your rights and moving your case forward.
             </p>
             <a
-              href="tel:6784036418"
-              className="font-heading text-wosnik-accent text-2xl font-semibold hover:opacity-80 transition-opacity"
+              href="tel:7065355965"
+              className="font-heading text-wosnik-accent text-xl font-semibold hover:opacity-80 transition-opacity inline-block mt-4"
             >
-              (678) 403-6418
+              (706) 535-5965
             </a>
-            <p className="font-body text-gray-600 text-sm mt-2">
-              Available 24/7
-            </p>
           </div>
 
           <a

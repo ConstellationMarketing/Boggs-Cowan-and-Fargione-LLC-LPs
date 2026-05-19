@@ -7,17 +7,17 @@ export const ContactSection = (): JSX.Element => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal mb-4">
-            Contact Us
+            Boggs, Cowan & Fargione LLC
           </h2>
           <p className="font-body text-wosnik-dark text-lg">
-            Call and speak with us today about your criminal or family law matter
+            Speak with our professional intake team about your case today.
           </p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-12">
           <div className="bg-white p-8 rounded-lg shadow-md">
             <h3 className="font-heading text-wosnik-dark text-2xl font-normal mb-6">
-              Request Your Free Consultation
+              Request For Consultation
             </h3>
             <form
               id="contact-form"
@@ -84,8 +84,8 @@ export const ContactSection = (): JSX.Element => {
                 <div className="flex items-start">
                   <Phone className="w-5 h-5 text-wosnik-accent mr-3 mt-1 flex-shrink-0" />
                   <div>
-                    <p className="font-body text-wosnik-dark font-medium">(678) 403-6418</p>
-                    <p className="font-body text-gray-600 text-sm">Available 24/7</p>
+                    <p className="font-body text-wosnik-dark font-medium">(706) 535-5965</p>
+                    <p className="font-body text-gray-600 text-sm">Email: cowan@bcflawfirm.com</p>
                   </div>
                 </div>
               </div>
@@ -99,18 +99,9 @@ export const ContactSection = (): JSX.Element => {
                 <div className="flex items-start">
                   <MapPin className="w-5 h-5 text-wosnik-accent mr-3 mt-1 flex-shrink-0" />
                   <div>
-                    <p className="font-body text-wosnik-dark font-medium mb-1">Walton County Location:</p>
-                    <p className="font-body text-wosnik-dark">924 Cherokee Ave.</p>
-                    <p className="font-body text-wosnik-dark mb-2">Monroe, GA 30655</p>
-                    <p className="font-body text-gray-600 text-sm">(By Appointment Only)</p>
-                  </div>
-                </div>
-                <div className="flex items-start">
-                  <MapPin className="w-5 h-5 text-wosnik-accent mr-3 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-body text-wosnik-dark font-medium mb-1">Gwinnett County Location:</p>
-                    <p className="font-body text-wosnik-dark">279 W. Crogan St.</p>
-                    <p className="font-body text-wosnik-dark">Lawrenceville, GA 30046</p>
+                    <p className="font-body text-wosnik-dark font-medium mb-1">Office Location:</p>
+                    <p className="font-body text-wosnik-dark">1024 12 Oaks Dr Suite 103</p>
+                    <p className="font-body text-wosnik-dark">Watkinsville, GA 30677</p>
                   </div>
                 </div>
               </div>

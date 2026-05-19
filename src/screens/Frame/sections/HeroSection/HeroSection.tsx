@@ -15,12 +15,12 @@ export const HeroSection = (): JSX.Element => {
           </div>
 
           <div className="flex flex-col items-end">
-            <p className="font-body text-wosnik-accent text-xs uppercase tracking-wider">Se habla español Call 24/7</p>
+            <p className="font-body text-wosnik-accent text-xs uppercase tracking-wider">Call 24/7</p>
             <a
-              href="tel:6784036418"
+              href="tel:7065355965"
               className="font-body text-white hover:text-wosnik-accent transition-colors text-lg font-semibold"
             >
-              (678) 403-6418
+              (706) 535-5965
             </a>
           </div>
         </div>
@@ -29,22 +29,22 @@ export const HeroSection = (): JSX.Element => {
       {/* Hero Content */}
       <div className="relative w-full max-w-7xl mx-auto px-4 py-16 md:py-24 text-center">
         <h1 className="font-heading text-white text-4xl md:text-5xl lg:text-6xl font-normal leading-tight mb-4">
-          Defending Your Rights, Protecting Your Freedom
+          Divorce & Child Custody Representation in Georgia
         </h1>
 
         <h2 className="font-body text-wosnik-accent text-xl md:text-2xl font-semibold mb-6">
-          Georgia Criminal Defense Attorneys
+          Protecting Your Rights, Your Children, and Your Future With Strategic Family Law Guidance
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">
-          With over 35 years of combined experience, Wosnik Law delivers aggressive criminal defense, DUI representation, and family law services to protect your rights and secure the best possible outcome.
+          Whether you are facing divorce, a custody dispute, or a complex family law matter, Boggs, Cowan & Fargione Law Firm provides professional representation with clear communication and dedicated advocacy. We help Georgia families move forward with confidence through every stage of the legal process.
         </p>
 
         <button
           className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-wosnik-dark font-inter font-medium text-sm px-8 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px] whitespace-nowrap inline-block"
           onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
         >
-          Get Your Free Consultation
+          Schedule Your Consultation
         </button>
       </div>
     </section>

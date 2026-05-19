@@ -3,25 +3,25 @@ import { CheckCircle } from "lucide-react";
 
 export const AboutFirmSection = (): JSX.Element => {
   const paragraphs = [
-    "Wosnik Law is a Georgia-based law firm with over 35 years of combined experience in criminal defense and family law. Our attorneys focus on defending clients' rights and securing favorable outcomes in complex legal matters throughout the state.",
-    "The firm has successfully represented hundreds of individuals facing criminal charges, from traffic violations to serious felonies. Our practice areas include DUI defense, criminal defense, divorce proceedings, and child custody matters.",
-    "Founded by Peter J. Wosnik, the firm has achieved numerous not guilty verdicts and case dismissals in charges including aggravated assault, armed robbery, DUI, drug trafficking, and family violence cases. Our attorneys combine trial experience with strategic negotiation skills.",
-    "With attorneys Pete Wosnik, John Schneider, and Robby King, we provide comprehensive legal representation tailored to each client's unique situation, whether facing criminal charges or navigating family law proceedings."
+    "Boggs, Cowan & Fargione Law Firm is a Georgia family law practice dedicated to helping individuals and families navigate some of life's most difficult transitions with clarity, strategy, and dependable legal guidance. Focused on divorce, child custody, child support, and related family law matters, the firm provides personalized representation tailored to the unique needs of every client.",
+    "Our approach is built on communication, preparation, and results-driven advocacy. We understand that family law disputes can impact every aspect of your future from your relationship with your children to your financial stability. That is why our team works diligently to provide clear legal direction, responsive support, and practical solutions throughout every stage of your case.",
+    "Whether resolving matters through negotiation, mediation, or litigation, Boggs, Cowan & Fargione Law Firm remains committed to protecting what matters most to you. From contested divorces and custody disputes to post-divorce modifications and parental rights matters, we help clients move forward with confidence and peace of mind.",
+    "Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines modern legal strategy with compassionate client service to deliver strong representation when families need it most."
   ];
 
   const achievements = [
-    "Over 35 years of combined legal experience",
-    "Hundreds of Georgia criminal cases handled",
-    "Not guilty verdicts in DUI, assault, and drug trafficking cases",
-    "Recognized by Super Lawyers and National Trial Lawyers",
-    "10/10 AVVO rating for legal excellence"
+    "Dedicated family law expertise",
+    "Strategic representation in divorce matters",
+    "Child custody & support guidance",
+    "Responsive client communication",
+    "Personalized legal solutions"
   ];
 
   return (
     <section className="w-full py-12 md:py-20 bg-wosnik-light">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          About Our Firm
+          About Boggs, Cowan & Fargione LLC
         </h2>
 
         <div className="max-w-4xl mx-auto space-y-6 mb-12">

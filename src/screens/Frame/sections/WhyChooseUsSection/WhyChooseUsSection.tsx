@@ -5,19 +5,19 @@ export const WhyChooseUsSection = (): JSX.Element => {
   const features = [
     {
       icon: Scale,
-      text: "When facing criminal charges or family law matters, you need experienced attorneys who understand what's at stake. Our team has helped hundreds of people charged with crimes in Georgia navigate the legal system."
+      text: "Family law disputes can place enormous emotional and financial strain on you and your loved ones. Our firm is committed to protecting your interests both inside and outside the courtroom with steady legal guidance and strong advocacy when the stakes are highest."
     },
     {
       icon: Users,
-      text: "We focus on achieving the best possible outcome for each client, whether you're facing a traffic ticket, serious felony, DUI charge, or divorce and child custody matter."
+      text: "Boggs, Cowan & Fargione Law Firm understands that every family situation is unique. We take a personalized approach to every case, developing legal strategies tailored to your specific goals and circumstances rather than relying on one-size-fits-all solutions."
     },
     {
       icon: Briefcase,
-      text: "Our attorneys bring unique insights from experience with federal, county, and city prosecutors' offices, understanding firsthand how prosecutors build cases - knowledge we now use to defend our clients."
+      text: "From negotiating favorable settlements to litigating complex family law matters, we work strategically to help clients reach practical solutions while safeguarding what matters most to their parental rights, and future stability."
     },
     {
       icon: Award,
-      text: "With attorneys recognized by Super Lawyers Rising Stars, National Trial Lawyers Top 40 Under 40, and maintaining a 10/10 AVVO rating, we combine legal excellence with personalized attention to protect your interests."
+      text: "Throughout your case, our team prioritizes responsive communication, transparency, and preparation. We ensure you understand the legal process, your available options, and the potential outcomes at every stage so you can make informed decisions with confidence."
     }
   ];
 
@@ -28,7 +28,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
           Why Choose Us
         </h2>
         <p className="font-body text-gray-600 text-center text-lg mb-12">
-          Over 35 years of combined experience defending your rights and freedom
+          Dedicated Family Law Representation Focused on Protecting Your Rights and Your Future
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

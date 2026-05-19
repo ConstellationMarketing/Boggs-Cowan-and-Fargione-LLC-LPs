@@ -3,11 +3,11 @@ import { CheckCircle } from "lucide-react";
 
 export const AboutUsSection = (): JSX.Element => {
   const highlights = [
-    "Over 35 years of combined legal experience",
-    "Hundreds of Georgia criminal cases handled",
-    "Not guilty verdicts in DUI, assault, and drug trafficking cases",
-    "Recognized by Super Lawyers and National Trial Lawyers",
-    "10/10 AVVO rating for legal excellence"
+    "Trusted family law representation for divorce and child custody matters in Georgia",
+    "Strategic advocacy focused on protecting parental rights and financial stability",
+    "Personalized legal guidance tailored to your family's unique situation",
+    "Clear communication and responsive client support throughout your case",
+    "Free phone consultations available to discuss your legal options"
   ];
 
   return (
@@ -28,19 +28,19 @@ export const AboutUsSection = (): JSX.Element => {
 
           <div className="flex flex-col space-y-6 text-center max-w-3xl mb-12">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Wosnik Law is a Georgia-based law firm with over 35 years of combined experience in criminal defense and family law. Our attorneys focus on defending clients' rights and securing favorable outcomes in complex legal matters throughout the state.
+              Boggs, Cowan & Fargione Law Firm is a Georgia family law practice dedicated to helping individuals and families navigate some of life's most difficult transitions with clarity, strategy, and dependable legal guidance. Focused on divorce, child custody, child support, and related family law matters, the firm provides personalized representation tailored to the unique needs of every client.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              The firm has successfully represented hundreds of individuals facing criminal charges, from traffic violations to serious felonies. Our practice areas include DUI defense, criminal defense, divorce proceedings, and child custody matters.
+              Our approach is built on communication, preparation, and results-driven advocacy. We understand that family law disputes can impact every aspect of your future from your relationship with your children to your financial stability. That is why our team works diligently to provide clear legal direction, responsive support, and practical solutions throughout every stage of your case.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Founded by Peter J. Wosnik, the firm has achieved numerous not guilty verdicts and case dismissals in charges including aggravated assault, armed robbery, DUI, drug trafficking, and family violence cases. Our attorneys combine trial experience with strategic negotiation skills.
+              Whether resolving matters through negotiation, mediation, or litigation, Boggs, Cowan & Fargione Law Firm remains committed to protecting what matters most to you. From contested divorces and custody disputes to post-divorce modifications and parental rights matters, we help clients move forward with confidence and peace of mind.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              With attorneys Pete Wosnik, John Schneider, and Robby King, we provide comprehensive legal representation tailored to each client's unique situation, whether facing criminal charges or navigating family law proceedings.
+              Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines modern legal strategy with compassionate client service to deliver strong representation when families need it most.
             </p>
           </div>
 
