@@ -1,0 +1,26 @@
+# Build settings
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Form settings
+[build.environment]
+  NODE_VERSION = "18"
+
+# Redirects
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/family-law-lp"
+  to = "/family-law-lp.html"
+  status = 200
+
+# Form submission handler - redirect to thank you after form submission
+[[redirects]]
+  from = "/thank-you"
+  to = "/thank-you.html"
+  status = 200
+  force = true
