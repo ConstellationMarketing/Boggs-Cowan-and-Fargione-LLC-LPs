@@ -21,9 +21,9 @@ export const ContactSection = (): JSX.Element => {
             </h3>
             <form
               id="contact-form"
-              name="criminal-form"
-              action="https://usebasin.com/f/700c92dca26f"
+              name="family-law-consultation"
               method="POST"
+              netlify
               className="space-y-4"
             >
               <div>
