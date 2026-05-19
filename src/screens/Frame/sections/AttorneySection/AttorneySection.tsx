@@ -9,7 +9,7 @@ export const AttorneySection = (): JSX.Element => {
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
-          <div className="w-full h-full min-h-[400px]">
+          <div className="w-full h-full min-h-[300px]">
             <img
               src="/lucas-cowan-attorney.webp"
               alt="Lucas Cowan, Attorney at Boggs, Cowan & Fargione"
