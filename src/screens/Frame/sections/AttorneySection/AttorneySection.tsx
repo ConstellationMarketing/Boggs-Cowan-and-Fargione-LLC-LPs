@@ -5,14 +5,14 @@ export const AttorneySection = (): JSX.Element => {
     <section className="w-full bg-[#efefef] py-12 md:py-20">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          Meet Attorney Peter J. Wosnik
+          Meet Our Attorney
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
           <div className="w-full h-full min-h-[400px]">
             <img
               src="/peter-wosnik-attorney-wosnik-law-1x1-1-1024x1024.jpg"
-              alt="Peter J. Wosnik, Attorney"
+              alt="Attorney Portrait"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>

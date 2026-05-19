@@ -21,7 +21,7 @@ export const AboutFirmSection = (): JSX.Element => {
     <section className="w-full py-12 md:py-20 bg-wosnik-light">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          About Wosnik Law
+          About Our Firm
         </h2>
 
         <div className="max-w-4xl mx-auto space-y-6 mb-12">

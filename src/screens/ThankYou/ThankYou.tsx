@@ -3,7 +3,7 @@ import { CheckCircle } from "lucide-react";
 
 export const ThankYou = (): JSX.Element => {
   return (
-    <div className="w-full min-h-screen bg-wosnik-light flex items-center justify-center">
+    <div className="w-full min-h-screen bg-white flex items-center justify-center">
       <div className="max-w-2xl mx-auto px-4 py-16 text-center">
         <div className="bg-white rounded-lg shadow-lg p-12">
           <div className="flex justify-center mb-6">
@@ -12,11 +12,11 @@ export const ThankYou = (): JSX.Element => {
             </div>
           </div>
 
-          <h1 className="font-heading text-wosnik-dark text-4xl md:text-5xl font-normal mb-6">
+          <h1 className="font-heading text-gray-900 text-4xl md:text-5xl font-normal mb-6">
             Thank You!
           </h1>
 
-          <p className="font-body text-wosnik-dark text-lg mb-4">
+          <p className="font-body text-gray-700 text-lg mb-4">
             We've received your message and appreciate you contacting us.
           </p>
 
@@ -25,7 +25,7 @@ export const ThankYou = (): JSX.Element => {
           </p>
 
           <div className="bg-wosnik-accent/10 border border-wosnik-accent/30 rounded-lg p-6 mb-8">
-            <p className="font-body text-wosnik-dark font-semibold mb-2">
+            <p className="font-body text-gray-900 font-semibold mb-2">
               Need Immediate Assistance?
             </p>
             <a

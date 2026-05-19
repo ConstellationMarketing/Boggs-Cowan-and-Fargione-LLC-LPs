@@ -9,7 +9,7 @@ export const HeroSection = (): JSX.Element => {
           <div className="flex items-center">
             <img
               src="/wosnik-law-logo-white-gold-min.png"
-              alt="Wosnik Law"
+              alt="Law Firm Logo"
               className="h-10 w-auto object-contain"
             />
           </div>
@@ -33,7 +33,7 @@ export const HeroSection = (): JSX.Element => {
         </h1>
 
         <h2 className="font-body text-wosnik-accent text-xl md:text-2xl font-semibold mb-6">
-          Georgia Criminal Defense Attorneys — Wosnik Law
+          Georgia Criminal Defense Attorneys
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">

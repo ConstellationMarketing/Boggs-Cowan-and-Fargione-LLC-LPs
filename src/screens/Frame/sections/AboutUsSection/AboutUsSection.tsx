@@ -14,14 +14,14 @@ export const AboutUsSection = (): JSX.Element => {
     <section id="about-us" className="w-full bg-white pt-6 md:pt-8 pb-12 md:pb-20">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          About Wosnik Law
+          About Us
         </h2>
 
         <div className="flex flex-col items-center">
           <div className="w-full mb-12 max-w-4xl">
             <img
               src="/image (15).png"
-              alt="Wosnik Law team"
+              alt="Team"
               className="w-full h-auto rounded-lg"
             />
           </div>
