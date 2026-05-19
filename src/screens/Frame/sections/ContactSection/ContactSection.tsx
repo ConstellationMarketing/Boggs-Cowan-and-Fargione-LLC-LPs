@@ -111,14 +111,14 @@ export const ContactSection = (): JSX.Element => {
 
         <div className="bg-white rounded-lg shadow-md overflow-hidden">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3315.729589736112!2d-83.7009607!3d33.7934805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5d1e30a86d521%3A0x5c677f5df8116ea0!2sWosnik%20Law!5e0!3m2!1ssr!2srs!4v1763744943259!5m2!1ssr!2srs"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.2332178538823!2d-83.4320493!3d33.883647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f671f9164045e3%3A0x39289a5bf4ecf9b9!2sBoggs%2C%20Cowan%20%26%20Fargione%20Law!5e0!3m2!1sen!2srs!4v1779203807071!5m2!1sen!2srs"
             width="100%"
-            height="400"
+            height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Office Location"
+            title="Boggs, Cowan & Fargione Law Office Location"
           ></iframe>
         </div>
       </div>
