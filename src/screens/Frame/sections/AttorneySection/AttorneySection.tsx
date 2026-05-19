@@ -11,8 +11,8 @@ export const AttorneySection = (): JSX.Element => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
           <div className="w-full h-full min-h-[400px]">
             <img
-              src="/peter-wosnik-attorney-wosnik-law-1x1-1-1024x1024.jpg"
-              alt="Attorney Portrait"
+              src="/lucas-cowan-attorney.webp"
+              alt="Lucas Cowan, Attorney at Boggs, Cowan & Fargione"
               className="w-full h-full object-cover rounded-lg"
             />
           </div>
