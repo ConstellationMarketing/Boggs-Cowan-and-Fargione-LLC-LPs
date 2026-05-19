@@ -22,7 +22,7 @@ export const AboutUsSection = (): JSX.Element => {
             <img
               src="/bcf-about-us.webp"
               alt="Boggs, Cowan & Fargione Law Firm office in Georgia"
-              className="w-full h-auto rounded-lg"
+              className="w-full h-auto max-h-[350px] object-cover rounded-lg"
             />
           </div>
 
