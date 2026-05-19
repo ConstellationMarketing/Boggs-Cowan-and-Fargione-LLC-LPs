@@ -23,6 +23,7 @@ export const ContactSection = (): JSX.Element => {
               id="contact-form"
               name="family-law-consultation"
               method="POST"
+              action="/thank-you"
               netlify
               className="space-y-4"
             >
