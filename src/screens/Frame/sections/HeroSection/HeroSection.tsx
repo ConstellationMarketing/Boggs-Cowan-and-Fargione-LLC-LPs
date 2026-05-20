@@ -10,7 +10,7 @@ export const HeroSection = (): JSX.Element => {
             <img
               src="/bcf-logo.png"
               alt="Boggs, Cowan & Fargione Logo"
-              className="w-[240px] h-[52px] md:w-[300px] md:h-[65px] lg:w-[400px] lg:h-[86px] object-contain filter brightness-0 invert"
+              className="w-[280px] h-[60px] md:w-[300px] md:h-[65px] lg:w-[400px] lg:h-[86px] object-contain filter brightness-0 invert"
             />
           </div>
 
