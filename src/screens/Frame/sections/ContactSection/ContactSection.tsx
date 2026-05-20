@@ -94,10 +94,12 @@ export const ContactSection = (): JSX.Element => {
                   <Phone className="w-5 h-5 text-wosnik-accent mr-3 mt-1 flex-shrink-0" />
                   <div>
                     <a href="tel:7065355965" className="font-body text-wosnik-dark font-medium hover:text-wosnik-accent transition-colors">(706) 535-5965</a>
-                    <div className="flex items-center gap-2 mt-1">
-                      <Mail className="w-4 h-4 text-wosnik-accent flex-shrink-0" />
-                      <a href="mailto:cowan@bcflawfirm.com" className="font-body text-gray-600 text-sm hover:text-wosnik-accent transition-colors">cowan@bcflawfirm.com</a>
-                    </div>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <Mail className="w-5 h-5 text-wosnik-accent mr-3 mt-1 flex-shrink-0" />
+                  <div>
+                    <a href="mailto:cowan@bcflawfirm.com" className="font-body text-wosnik-dark font-medium hover:text-wosnik-accent transition-colors">cowan@bcflawfirm.com</a>
                   </div>
                 </div>
               </div>
