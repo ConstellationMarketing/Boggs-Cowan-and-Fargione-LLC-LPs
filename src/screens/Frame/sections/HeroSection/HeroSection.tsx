@@ -15,7 +15,6 @@ export const HeroSection = (): JSX.Element => {
           </div>
 
           <div className="hidden md:flex flex-col items-center justify-center gap-1 border-2 border-wosnik-accent rounded px-4 py-2 md:px-6 md:py-3 w-full md:w-auto">
-            <p className="font-body text-wosnik-accent text-xs md:text-sm uppercase tracking-wider font-semibold">Call 24/7</p>
             <a
               href="tel:7065355965"
               className="font-body text-white hover:text-wosnik-accent transition-colors text-base md:text-lg font-semibold"
