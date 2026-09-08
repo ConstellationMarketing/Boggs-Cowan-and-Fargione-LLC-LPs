@@ -29,22 +29,22 @@ export const HeroSection = (): JSX.Element => {
       {/* Hero Content */}
       <div className="relative w-full max-w-7xl mx-auto px-4 py-16 md:py-24 text-center">
         <h1 className="font-heading text-white text-4xl md:text-5xl lg:text-6xl font-normal leading-tight mb-4">
-          Divorce & Child Custody Representation in Georgia
+          Child Custody & Adoption Attorneys in Georgia
         </h1>
 
         <h2 className="font-body text-wosnik-accent text-xl md:text-2xl font-semibold mb-6">
-          Protecting Your Rights, Your Children, and Your Future With Strategic Family Law Guidance
+          Protecting Your Family, Your Parental Rights, and Your Children's Future
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">
-          Whether you are facing divorce, a custody dispute, or a complex family law matter, Boggs, Cowan & Fargione Law Firm provides professional representation with clear communication and dedicated advocacy. We help Georgia families move forward with confidence through every stage of the legal process.
+          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione Law Firm provides dedicated family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
         </p>
 
         <button
           className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-12 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px] inline-block"
           onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
         >
-          Schedule Free Phone Consultation
+          Free Phone Consultation
         </button>
       </div>
     </section>

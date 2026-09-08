@@ -3,18 +3,19 @@ import { CheckCircle } from "lucide-react";
 
 export const AboutUsSection = (): JSX.Element => {
   const highlights = [
-    "Trusted family law representation for divorce and child custody matters in Georgia",
-    "Strategic advocacy focused on protecting parental rights and financial stability",
-    "Personalized legal guidance tailored to your family's unique situation",
-    "Clear communication and responsive client support throughout your case",
-    "Free phone consultations available to discuss your legal options"
+    "Dedicated child custody and adoption representation throughout Georgia",
+    "Strategic advocacy focused on protecting parental rights and family interests",
+    "Personalized legal guidance tailored to your family's unique circumstances",
+    "Clear communication and responsive support throughout your case",
+    "Phone consultations available to discuss your legal options",
+    "Legal support for custody disputes, parenting arrangements, and adoption matters"
   ];
 
   return (
     <section id="about-us" className="w-full bg-white pt-6 md:pt-8 pb-12 md:pb-20">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          About Us
+          About Boggs, Cowan & Fargione LLC
         </h2>
 
         <div className="flex flex-col items-center">
@@ -28,19 +29,19 @@ export const AboutUsSection = (): JSX.Element => {
 
           <div className="flex flex-col space-y-6 text-center max-w-3xl mb-12">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Boggs, Cowan & Fargione Law Firm is a Georgia family law practice dedicated to helping individuals and families navigate some of life's most difficult transitions with clarity, strategy, and dependable legal guidance. Focused on divorce, child custody, child support, and related family law matters, the firm provides personalized representation tailored to the unique needs of every client.
+              Boggs, Cowan & Fargione Law Firm is a Georgia family law practice dedicated to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and dependable legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Our approach is built on communication, preparation, and results-driven advocacy. We understand that family law disputes can impact every aspect of your future from your relationship with your children to your financial stability. That is why our team works diligently to provide clear legal direction, responsive support, and practical solutions throughout every stage of your case.
+              Our approach is built on communication, preparation, and dedicated advocacy. We understand that child custody and adoption matters can have a lasting impact on your family and your child's future. That is why our team works diligently to provide clear legal direction, responsive support, and practical solutions throughout every stage of your case.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Whether resolving matters through negotiation, mediation, or litigation, Boggs, Cowan & Fargione Law Firm remains committed to protecting what matters most to you. From contested divorces and custody disputes to post-divorce modifications and parental rights matters, we help clients move forward with confidence and peace of mind.
+              Whether you are facing a contested custody matter, seeking to establish or modify parenting arrangements, or navigating the adoption process, Boggs, Cowan & Fargione Law Firm is committed to protecting what matters most to you. We help Georgia families understand their legal options and move forward with confidence.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines modern legal strategy with compassionate client service to deliver strong representation when families need it most.
+              Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines strategic legal representation with compassionate client service to provide trusted guidance when families need it most.
             </p>
           </div>
 
@@ -48,7 +49,7 @@ export const AboutUsSection = (): JSX.Element => {
             <h3 className="font-heading text-wosnik-dark text-2xl font-normal text-center mb-8">
               Highlights
             </h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {highlights.map((highlight, index) => (
                 <div
                   key={index}

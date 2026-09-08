@@ -9,7 +9,7 @@ export const StickyCtaSection = (): JSX.Element => {
             onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
             className="w-full md:w-auto bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-8 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px]"
           >
-            Schedule Your Consultation
+            Free Phone Consultation
           </button>
           <a
             href="tel:7065355965"

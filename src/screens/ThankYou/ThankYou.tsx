@@ -21,7 +21,7 @@ export const ThankYou = (): JSX.Element => {
           </p>
 
           <p className="font-body text-gray-600 text-base mb-8">
-            Watch for a call from (706) 535-5965 or an email from Boggs, Cowan & Fargione LLC. Our team will review your inquiry and discuss the details of your divorce, child custody, or family law matter.
+            Watch for a call from (706) 535-5965 or an email from Boggs, Cowan & Fargione LLC. Our team will review your inquiry and discuss the details of your child custody or adoption matter, answer your questions, and help you understand your legal options.
           </p>
 
           <div className="bg-wosnik-accent/10 border border-wosnik-accent/30 rounded-lg p-6 mb-8">

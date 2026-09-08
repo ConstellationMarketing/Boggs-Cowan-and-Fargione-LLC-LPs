@@ -5,19 +5,19 @@ export const WhyChooseUsSection = (): JSX.Element => {
   const features = [
     {
       icon: Scale,
-      text: "Family law disputes can place enormous emotional and financial strain on you and your loved ones. Our firm is committed to protecting your interests both inside and outside the courtroom with steady legal guidance and strong advocacy when the stakes are highest."
+      text: "Child custody and adoption matters can have a lasting impact on you, your children, and your family's future. Boggs, Cowan & Fargione Law Firm provides steady legal guidance and dedicated advocacy to help Georgia families navigate these important legal matters with clarity and confidence."
     },
     {
       icon: Users,
-      text: "Boggs, Cowan & Fargione Law Firm understands that every family situation is unique. We take a personalized approach to every case, developing legal strategies tailored to your specific goals and circumstances rather than relying on one-size-fits-all solutions."
+      text: "Our firm is committed to protecting your parental rights and the interests of your family. Whether you are involved in a custody dispute, seeking to establish or modify parenting arrangements, or navigating the adoption process, we work strategically to pursue practical solutions while protecting what matters most."
     },
     {
       icon: Briefcase,
-      text: "From negotiating favorable settlements to litigating complex family law matters, we work strategically to help clients reach practical solutions while safeguarding what matters most to their parental rights, and future stability."
+      text: "Boggs, Cowan & Fargione Law Firm understands that every family situation is unique. That is why we take a personalized approach to every case, developing legal strategies tailored to your specific goals, circumstances, and family needs rather than relying on one-size-fits-all solutions."
     },
     {
       icon: Award,
-      text: "Throughout your case, our team prioritizes responsive communication, transparency, and preparation. We ensure you understand the legal process, your available options, and the potential outcomes at every stage so you can make informed decisions with confidence."
+      text: "Throughout your case, our team prioritizes responsive communication, transparency, and thorough preparation. We help you understand the legal process, your available options, and the important considerations involved so you can make informed decisions with confidence."
     }
   ];
 
@@ -28,7 +28,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
           Why Choose Us
         </h2>
         <p className="font-body text-gray-600 text-center text-lg mb-12">
-          Dedicated Family Law Representation Focused on Protecting Your Rights and Your Future
+          Dedicated Family Law Representation Focused on Protecting Your Rights and Your Family's Future
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
