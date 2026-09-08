@@ -19,11 +19,11 @@ export const AboutUsSection = (): JSX.Element => {
         </h2>
 
         <div className="flex flex-col items-center">
-          <div className="w-full mb-12 max-w-4xl">
+          <div className="w-full mb-12 max-w-3xl">
             <img
-              src="/bcf-about-us.webp"
-              alt="Boggs, Cowan & Fargione Law Firm office in Georgia"
-              className="w-full h-auto max-h-[350px] object-cover rounded-lg"
+              src="/bcf-attorneys-about-us.webp"
+              alt="The attorneys of Boggs, Cowan & Fargione Law Firm"
+              className="w-full h-auto rounded-lg"
             />
           </div>
 

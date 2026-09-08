@@ -9,11 +9,11 @@ export const AttorneySection = (): JSX.Element => {
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
-          <div className="w-full h-full min-h-[300px]">
+          <div className="relative w-full md:self-start lg:self-stretch lg:h-full">
             <img
-              src="/lucas-cowan.webp"
-              alt="Lucas Cowan, Attorney at Boggs, Cowan & Fargione"
-              className="w-full h-full object-cover rounded-lg"
+              src="/bcf-team.webp"
+              alt="The attorneys of Boggs, Cowan & Fargione Law Firm"
+              className="w-full h-auto rounded-lg lg:absolute lg:inset-0 lg:h-full lg:object-cover"
             />
           </div>
 
