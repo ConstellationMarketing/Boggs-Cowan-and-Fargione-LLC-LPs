@@ -18,6 +18,7 @@ export const StickyCtaSection = (): JSX.Element => {
             Call Now: (706) 535-5965
           </a>
         </div>
+        <p className="mt-2 text-center font-body text-white text-xs md:text-sm font-semibold">English & Spanish Support</p>
       </div>
     </section>
   );

@@ -11,7 +11,7 @@ import { StickyCtaSection } from "./sections/StickyCtaSection/StickyCtaSection";
 
 export const Frame = (): JSX.Element => {
   return (
-    <div className="w-full bg-wosnik-light pb-24">
+    <div className="w-full bg-wosnik-light pb-44 md:pb-28">
       <div className="flex flex-col">
         <HeroSection />
         <CriminalDefenseServicesSection />
