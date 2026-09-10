@@ -9,7 +9,7 @@ export const HeroSection = (): JSX.Element => {
           <div className="flex justify-center md:justify-start">
             <img
               src="/bcf-logo.png"
-              alt="Boggs, Cowan & Fargione Logo"
+              alt="Boggs, Cowan, & Fargione LLC Logo"
               className="w-[280px] h-[60px] md:w-[300px] md:h-[65px] lg:w-[400px] lg:h-[86px] object-contain filter brightness-0 invert"
             />
           </div>
@@ -21,6 +21,7 @@ export const HeroSection = (): JSX.Element => {
             >
               (706) 535-5965
             </a>
+            <p className="font-body text-wosnik-accent text-xs md:text-sm font-semibold">English & Spanish Support</p>
           </div>
         </div>
       </div>
@@ -36,7 +37,7 @@ export const HeroSection = (): JSX.Element => {
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">
-          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione Law Firm provides dedicated family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
+          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan, & Fargione LLC provides dedicated family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
         </p>
 
         <button

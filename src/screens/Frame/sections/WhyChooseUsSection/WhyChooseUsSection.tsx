@@ -5,7 +5,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
   const features = [
     {
       icon: Scale,
-      text: "Child custody and adoption matters can have a lasting impact on you, your children, and your family's future. Boggs, Cowan & Fargione Law Firm provides steady legal guidance and dedicated advocacy to help Georgia families navigate these important legal matters with clarity and confidence."
+      text: "Child custody and adoption matters can have a lasting impact on you, your children, and your family's future. Boggs, Cowan, & Fargione LLC provides steady legal guidance and dedicated advocacy to help Georgia families navigate these important legal matters with clarity and confidence."
     },
     {
       icon: Users,
@@ -13,7 +13,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
     },
     {
       icon: Briefcase,
-      text: "Boggs, Cowan & Fargione Law Firm understands that every family situation is unique. That is why we take a personalized approach to every case, developing legal strategies tailored to your specific goals, circumstances, and family needs rather than relying on one-size-fits-all solutions."
+      text: "Boggs, Cowan, & Fargione LLC understands that every family situation is unique. That is why we take a personalized approach to every case, developing legal strategies tailored to your specific goals, circumstances, and family needs rather than relying on one-size-fits-all solutions."
     },
     {
       icon: Award,

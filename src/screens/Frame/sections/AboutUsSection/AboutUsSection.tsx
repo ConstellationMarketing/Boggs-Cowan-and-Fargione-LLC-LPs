@@ -15,21 +15,21 @@ export const AboutUsSection = (): JSX.Element => {
     <section id="about-us" className="w-full bg-white pt-6 md:pt-8 pb-12 md:pb-20">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          About Boggs, Cowan & Fargione LLC
+          About Boggs, Cowan, & Fargione LLC
         </h2>
 
         <div className="flex flex-col items-center">
           <div className="w-full mb-12 max-w-3xl">
             <img
               src="/bcf-attorneys-about-us.webp"
-              alt="The attorneys of Boggs, Cowan & Fargione Law Firm"
+              alt="The attorneys of Boggs, Cowan, & Fargione LLC"
               className="w-full h-auto rounded-lg"
             />
           </div>
 
           <div className="flex flex-col space-y-6 text-center max-w-3xl mb-12">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Boggs, Cowan & Fargione Law Firm is a Georgia family law practice dedicated to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and dependable legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
+              Boggs, Cowan, & Fargione LLC is a Georgia family law practice dedicated to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and dependable legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
@@ -37,11 +37,11 @@ export const AboutUsSection = (): JSX.Element => {
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Whether you are facing a contested custody matter, seeking to establish or modify parenting arrangements, or navigating the adoption process, Boggs, Cowan & Fargione Law Firm is committed to protecting what matters most to you. We help Georgia families understand their legal options and move forward with confidence.
+              Whether you are facing a contested custody matter, seeking to establish or modify parenting arrangements, or navigating the adoption process, Boggs, Cowan, & Fargione LLC is committed to protecting what matters most to you. We help Georgia families understand their legal options and move forward with confidence.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines strategic legal representation with compassionate client service to provide trusted guidance when families need it most.
+              Serving clients throughout Georgia, Boggs, Cowan, & Fargione LLC combines strategic legal representation with compassionate client service to provide trusted guidance when families need it most.
             </p>
           </div>
 

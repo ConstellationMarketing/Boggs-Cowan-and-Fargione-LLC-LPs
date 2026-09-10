@@ -13,7 +13,7 @@ export const SpecialtyFocusSection = (): JSX.Element => {
     {
       icon: MapPin,
       title: "Geographic Areas Served",
-      text: "Serving clients throughout Georgia, including Athens-Clarke County, Oconee County, Walton County, and Jackson County.",
+      text: "Serving clients throughout Georgia, including Athens-Clarke County, Oconee County, Walton County, Jackson County, and Barrow County.",
     },
     {
       icon: ShieldCheck,

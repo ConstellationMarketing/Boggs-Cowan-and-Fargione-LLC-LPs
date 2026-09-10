@@ -7,7 +7,7 @@ export const ContactSection = (): JSX.Element => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal mb-4">
-            Boggs, Cowan & Fargione LLC
+            Boggs, Cowan, & Fargione LLC
           </h2>
           <p className="font-body text-wosnik-dark text-lg">
             Speak with our professional intake team about your case today.
@@ -132,7 +132,7 @@ export const ContactSection = (): JSX.Element => {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Boggs, Cowan & Fargione Law Office Location"
+            title="Boggs, Cowan, & Fargione LLC Office Location"
           ></iframe>
         </div>
       </div>
