@@ -8,7 +8,7 @@ export const HeroSection = (): JSX.Element => {
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div className="flex justify-center md:justify-start">
             <p className="font-heading text-white text-[17px] sm:text-lg md:text-xl lg:text-[28px] leading-tight tracking-wide text-center md:text-left md:whitespace-nowrap [font-variant:small-caps]">
-              Boggs, Cowan, & Fargione <span className="[font-variant:all-small-caps]">LLC</span>
+              Boggs, Cowan & Fargione <span className="[font-variant:all-small-caps]">LLC</span>
             </p>
           </div>
 
@@ -35,7 +35,7 @@ export const HeroSection = (): JSX.Element => {
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">
-          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan, & Fargione LLC provides dedicated family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
+          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione LLC provides dedicated family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
         </p>
 
         <button
