@@ -10,7 +10,7 @@ export const ContactSection = (): JSX.Element => {
             Boggs, Cowan & Fargione LLC
           </h2>
           <p className="font-body text-wosnik-dark text-lg">
-            Speak with our professional intake team about your case today.
+            Speak with our skilled intake team about your case today.
           </p>
         </div>
 

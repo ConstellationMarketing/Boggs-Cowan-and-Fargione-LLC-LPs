@@ -5,7 +5,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
   const features = [
     {
       icon: Scale,
-      text: "Child custody and adoption matters can have a lasting impact on you, your children, and your family's future. Boggs, Cowan & Fargione LLC provides steady legal guidance and dedicated advocacy to help Georgia families navigate these important legal matters with clarity and confidence."
+      text: "Child custody and adoption matters can have a lasting impact on you, your children, and your family's future. Boggs, Cowan & Fargione LLC provides steady legal guidance and focused advocacy to help Georgia families navigate these important legal matters with clarity and confidence."
     },
     {
       icon: Users,
@@ -28,7 +28,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
           Why Choose Us
         </h2>
         <p className="font-body text-gray-600 text-center text-lg mb-12">
-          Dedicated Family Law Representation Focused on Protecting Your Rights and Your Family's Future
+          Distinct Family Law Representation Focused on Protecting Your Rights and Your Family's Future
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">

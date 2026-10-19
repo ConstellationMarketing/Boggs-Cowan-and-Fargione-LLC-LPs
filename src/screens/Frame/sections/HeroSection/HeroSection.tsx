@@ -35,7 +35,7 @@ export const HeroSection = (): JSX.Element => {
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">
-          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione LLC provides dedicated family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
+          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione LLC provides specialized family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
         </p>
 
         <button

@@ -3,7 +3,7 @@ import { CheckCircle } from "lucide-react";
 
 export const AboutUsSection = (): JSX.Element => {
   const highlights = [
-    "Dedicated child custody and adoption representation throughout Georgia",
+    "Tailored child custody and adoption representation throughout Georgia",
     "Strategic advocacy focused on protecting parental rights and family interests",
     "Personalized legal guidance tailored to your family's unique circumstances",
     "Clear communication and responsive support throughout your case",
@@ -29,11 +29,11 @@ export const AboutUsSection = (): JSX.Element => {
 
           <div className="flex flex-col space-y-6 text-center max-w-3xl mb-12">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Boggs, Cowan & Fargione LLC is a Georgia family law practice dedicated to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and dependable legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
+              Boggs, Cowan & Fargione LLC is a Georgia family law practice committed to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and dependable legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Our approach is built on communication, preparation, and dedicated advocacy. We understand that child custody and adoption matters can have a lasting impact on your family and your child's future. That is why our team works diligently to provide clear legal direction, responsive support, and practical solutions throughout every stage of your case.
+              Our approach is built on communication, preparation, and tailored advocacy. We understand that child custody and adoption matters can have a lasting impact on your family and your child's future. That is why our team works diligently to provide clear legal direction, responsive support, and practical solutions throughout every stage of your case.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
@@ -41,7 +41,7 @@ export const AboutUsSection = (): JSX.Element => {
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Serving clients throughout Georgia, Boggs, Cowan & Fargione LLC combines strategic legal representation with compassionate client service to provide trusted guidance when families need it most.
+              Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines strategic legal representation with compassionate client service to provide guidance when families need it most.
             </p>
           </div>
 
