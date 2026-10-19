@@ -19,7 +19,7 @@ export const AttorneySection = (): JSX.Element => {
 
           <div className="flex flex-col justify-center space-y-6">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Boggs, Cowan & Fargione LLC is committed to providing dedicated family law representation for individuals and families navigating child custody and adoption matters. The firm focuses on delivering personalized legal guidance with professionalism, responsiveness, and strong advocacy tailored to each client's unique circumstances.
+              Boggs, Cowan & Fargione Law Firm is committed to providing family law representation for individuals and families navigating child custody and adoption matters. The firm focuses on delivering personalized legal guidance with responsiveness and strong advocacy tailored to each client's unique circumstances.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
@@ -27,7 +27,7 @@ export const AttorneySection = (): JSX.Element => {
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              At Boggs, Cowan & Fargione LLC, we believe clients deserve clear communication and reliable legal support from the beginning. Whether your matter involves establishing custody and parenting arrangements, resolving a custody dispute, or navigating the adoption process, our team is prepared to provide strategic guidance and dedicated representation with confidence and clarity.
+              At Boggs, Cowan & Fargione LLC, we believe clients deserve clear communication and reliable legal support from the beginning. Whether your matter involves establishing custody and parenting arrangements, resolving a custody dispute, or navigating the adoption process, our team is prepared to provide strategic guidance and specialized representation with confidence and clarity.
             </p>
 
             <div className="pt-4">

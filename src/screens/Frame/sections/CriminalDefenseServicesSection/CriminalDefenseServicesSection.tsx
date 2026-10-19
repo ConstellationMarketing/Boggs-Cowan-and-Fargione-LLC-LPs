@@ -5,7 +5,7 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
     {
       title: "Child Custody Representation",
       description:
-        "Dedicated advocacy for custody disputes, helping parents protect their parental rights and pursue arrangements that support their child's best interests.",
+        "Tailored advocacy for custody disputes, helping parents protect their parental rights and pursue arrangements that support their child's best interests.",
     },
     {
       title: "Child Visitation & Parenting Time",
@@ -29,10 +29,10 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal mb-4">
-            Dedicated Legal Support for Child Custody & Adoption
+            Specialized Legal Support for Child Custody & Adoption
           </h2>
           <p className="font-body text-wosnik-dark/70 text-base max-w-3xl mx-auto mb-8">
-            Child custody and adoption matters can have a lasting impact on your family and your child's future. Our team provides dedicated legal guidance to help Georgia families understand their options, protect their rights, and navigate the legal process with clarity and confidence.
+            Child custody and adoption matters can have a lasting impact on your family and your child's future. Our team provides skilled legal guidance to help Georgia families understand their options, protect their rights, and navigate the legal process with clarity and confidence.
           </p>
           <h3 className="font-heading text-wosnik-dark text-2xl font-normal">
             Services We Provide
@@ -73,7 +73,7 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
             </a>
 
             <p className="font-body text-white text-base">
-              Speak directly with our legal team to discuss your child custody or adoption matter. Get clear answers, trusted guidance, and dedicated legal support to protect your family and confidently move forward.
+              Speak directly with our legal team to discuss your child custody or adoption matter. Get clear answers, skilled guidance, and tailored legal support to protect your family and confidently move forward.
             </p>
           </div>
         </div>
