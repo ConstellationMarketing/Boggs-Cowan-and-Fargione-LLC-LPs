@@ -29,7 +29,7 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
       <div className="max-w-5xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal mb-4">
-            Specialized Legal Support for Child Custody & Adoption
+            Strategic Legal Support for Child Custody & Adoption
           </h2>
           <p className="font-body text-wosnik-dark/70 text-base max-w-3xl mx-auto mb-8">
             Child custody and adoption matters can have a lasting impact on your family and your child's future. Our team provides skilled legal guidance to help Georgia families understand their options, protect their rights, and navigate the legal process with clarity and confidence.
@@ -67,7 +67,7 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
           <div className="flex flex-col items-center gap-4">
             <a
               href="tel:7065355965"
-              className="bg-white hover:bg-gray-100 text-wosnik-accent font-inter font-medium text-sm px-8 py-3 rounded-full transition-all duration-150 uppercase tracking-[2px] inline-block"
+              className="bg-white hover:bg-gray-100 text-wosnik-accent font-inter font-medium text-sm px-6 sm:px-8 py-3 rounded-full transition-all duration-150 uppercase tracking-[1px] sm:tracking-[2px] inline-block max-w-full"
             >
               Free Phone Consultation
             </a>

@@ -35,11 +35,11 @@ export const HeroSection = (): JSX.Element => {
         </h2>
 
         <p className="font-body text-white text-base max-w-3xl mx-auto leading-relaxed mb-8">
-          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione LLC provides specialized family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
+          Facing a child custody, adoption, or stepparent adoption matter? Boggs, Cowan & Fargione LLC provides strategic family law representation for Georgia families. We help clients navigate custody, parenting rights, adoption, and stepparent adoption matters with strategic guidance, clear communication, and committed advocacy.
         </p>
 
         <button
-          className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-12 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px] inline-block"
+          className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-6 sm:px-12 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[1px] sm:tracking-[2px] inline-block max-w-full"
           onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
         >
           Free Phone Consultation

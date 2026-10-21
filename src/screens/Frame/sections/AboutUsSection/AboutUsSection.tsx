@@ -41,7 +41,7 @@ export const AboutUsSection = (): JSX.Element => {
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Serving clients throughout Georgia, Boggs, Cowan & Fargione Law Firm combines strategic legal representation with compassionate client service to provide guidance when families need it most.
+              Serving clients throughout Georgia, Boggs, Cowan & Fargione LLC combines strategic legal representation with compassionate client service to provide guidance when families need it most.
             </p>
           </div>
 

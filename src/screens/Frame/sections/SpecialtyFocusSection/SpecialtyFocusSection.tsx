@@ -18,7 +18,7 @@ export const SpecialtyFocusSection = (): JSX.Element => {
     {
       icon: ShieldCheck,
       title: "Legal Focus",
-      text: "Specialized family law representation focused on protecting parental rights, supporting families, and helping clients navigate child custody and adoption matters.",
+      text: "Strategic family law representation focused on protecting parental rights, supporting families, and helping clients navigate child custody and adoption matters.",
     },
     {
       icon: Award,

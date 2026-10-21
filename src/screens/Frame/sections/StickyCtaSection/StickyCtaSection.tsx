@@ -7,13 +7,13 @@ export const StickyCtaSection = (): JSX.Element => {
         <div className="flex flex-col md:flex-row gap-3 md:gap-4 items-center justify-center">
           <button
             onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
-            className="w-full md:w-auto bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-8 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px]"
+            className="w-full md:w-auto max-w-full bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-[13px] sm:text-sm px-4 sm:px-8 py-2.5 sm:py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[1px] sm:tracking-[2px]"
           >
             Free Phone Consultation
           </button>
           <a
             href="tel:7065355965"
-            className="w-full md:w-auto bg-white hover:bg-gray-100 text-wosnik-accent font-inter font-medium text-sm px-8 py-3 rounded-full border border-white transition-all duration-150 uppercase tracking-[2px] text-center"
+            className="w-full md:w-auto max-w-full bg-white hover:bg-gray-100 text-wosnik-accent font-inter font-medium text-[13px] sm:text-sm px-4 sm:px-8 py-2.5 sm:py-3 rounded-full border border-white transition-all duration-150 uppercase tracking-[1px] sm:tracking-[2px] text-center"
           >
             Call Now: (706) 535-5965
           </a>

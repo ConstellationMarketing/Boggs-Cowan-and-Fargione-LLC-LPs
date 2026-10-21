@@ -19,7 +19,7 @@ export const AttorneySection = (): JSX.Element => {
 
           <div className="flex flex-col justify-center space-y-6">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Boggs, Cowan & Fargione Law Firm is committed to providing family law representation for individuals and families navigating child custody and adoption matters. The firm focuses on delivering personalized legal guidance with responsiveness and strong advocacy tailored to each client's unique circumstances.
+              Boggs, Cowan & Fargione LLC is committed to providing family law representation for individuals and families navigating child custody and adoption matters. The firm focuses on delivering personalized legal guidance with responsiveness and strong advocacy tailored to each client's unique circumstances.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
@@ -27,13 +27,13 @@ export const AttorneySection = (): JSX.Element => {
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              At Boggs, Cowan & Fargione LLC, we believe clients deserve clear communication and reliable legal support from the beginning. Whether your matter involves establishing custody and parenting arrangements, resolving a custody dispute, or navigating the adoption process, our team is prepared to provide strategic guidance and specialized representation with confidence and clarity.
+              At Boggs, Cowan & Fargione LLC, we believe clients deserve clear communication and reliable legal support from the beginning. Whether your matter involves establishing custody and parenting arrangements, resolving a custody dispute, or navigating the adoption process, our team is prepared to provide strategic guidance and strategic representation with confidence and clarity.
             </p>
 
             <div className="pt-4">
               <button
                 onClick={() => document.getElementById('contact-form')?.scrollIntoView({ behavior: 'smooth' })}
-                className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-8 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[2px] whitespace-nowrap inline-block"
+                className="bg-wosnik-accent hover:bg-wosnik-accent/80 text-white font-inter font-medium text-sm px-6 sm:px-8 py-3 rounded-full border border-wosnik-accent transition-all duration-150 uppercase tracking-[1px] sm:tracking-[2px] sm:whitespace-nowrap inline-block max-w-full"
               >
                 Free Phone Consultation
               </button>
