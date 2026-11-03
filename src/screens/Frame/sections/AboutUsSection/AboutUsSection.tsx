@@ -29,7 +29,7 @@ export const AboutUsSection = (): JSX.Element => {
 
           <div className="flex flex-col space-y-6 text-center max-w-3xl mb-12">
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              Boggs, Cowan & Fargione LLC is a Georgia family law practice committed to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and dependable legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
+              Boggs, Cowan & Fargione LLC is a Georgia family law practice committed to helping individuals and families navigate child custody and adoption matters with clarity, strategy, and clear legal guidance. Focused on protecting parental rights and supporting growing families, the firm provides personalized representation tailored to the unique needs of every client.
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">

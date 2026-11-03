@@ -27,7 +27,7 @@ export const AttorneySection = (): JSX.Element => {
             </p>
 
             <p className="font-body text-wosnik-dark text-base leading-relaxed">
-              At Boggs, Cowan & Fargione LLC, we believe clients deserve clear communication and reliable legal support from the beginning. Whether your matter involves establishing custody and parenting arrangements, resolving a custody dispute, or navigating the adoption process, our team is prepared to provide strategic guidance and strategic representation with confidence and clarity.
+              At Boggs, Cowan & Fargione LLC, we believe clients deserve clear communication and responsive legal support from the beginning. Whether your matter involves establishing custody and parenting arrangements, resolving a custody dispute, or navigating the adoption process, our team is prepared to provide strategic guidance and strategic representation with confidence and clarity.
             </p>
 
             <div className="pt-4">
