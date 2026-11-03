@@ -15,7 +15,7 @@ export const CriminalDefenseServicesSection = (): JSX.Element => {
     {
       title: "Adoption Representation",
       description:
-        "Comprehensive legal support for families navigating the adoption process, including stepparent adoption, from understanding legal requirements to completing the necessary steps for a successful adoption.",
+        "Comprehensive legal support for families navigating the adoption process, including stepparent adoption, from understanding legal requirements to completing the steps needed to finalize the adoption.",
     },
     {
       title: "Stepparent Adoption",

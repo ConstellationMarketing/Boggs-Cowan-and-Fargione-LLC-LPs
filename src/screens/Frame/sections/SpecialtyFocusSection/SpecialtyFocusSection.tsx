@@ -13,7 +13,7 @@ export const SpecialtyFocusSection = (): JSX.Element => {
     {
       icon: MapPin,
       title: "Geographic Areas Served",
-      text: "Serving clients throughout Georgia, including Athens-Clarke County, Oconee County, Walton County, Jackson County, and Barrow County.",
+      text: "Serving clients in Athens-Clarke, Oconee, Walton, Barrow, Jackson, Oglethorpe, Madison, Franklin, Hart and Greene Counties.",
     },
     {
       icon: ShieldCheck,
@@ -31,7 +31,7 @@ export const SpecialtyFocusSection = (): JSX.Element => {
     <section id="specialty-focus" className="w-full bg-white py-12 md:py-20">
       <div className="max-w-6xl mx-auto px-4">
         <h2 className="font-heading text-wosnik-dark text-3xl md:text-4xl font-normal text-center mb-12">
-          Specialty Focus
+          Practice Focus
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

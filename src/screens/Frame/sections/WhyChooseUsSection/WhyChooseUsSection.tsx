@@ -28,7 +28,7 @@ export const WhyChooseUsSection = (): JSX.Element => {
           Why Choose Us
         </h2>
         <p className="font-body text-gray-600 text-center text-lg mb-12">
-          Distinct Family Law Representation Focused on Protecting Your Rights and Your Family's Future
+          Family Law Representation Focused on Protecting Your Rights and Your Family's Future
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
